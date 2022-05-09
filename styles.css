@@ -1,0 +1,35 @@
+body{   
+    background: #eee;  
+}  
+#frm{  
+    border: solid gray 1px;  
+    width:25%;  
+    border-radius: 2px;  
+    margin: 120px auto;  
+    background: white;  
+    padding: 50px;  
+}  
+#btn{  
+    color: #fff;  
+    background: #337ab7;  
+    padding: 7px;  
+    margin-left: 70%;  
+}
+
+#rgstr{
+    color: #fff;  
+    background: #337ab7;  
+    padding: 7px;  
+    margin-left:60px;
+    margin-bottom:0px;  
+
+}
+
+table, th, td {
+    border: 2px solid;
+    background-color: rgba(138, 129, 129, 0.348);
+  }
+
+  .center {
+    width: 3%;
+  }
