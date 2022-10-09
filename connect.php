@@ -3,7 +3,7 @@
 //prihlasovanie do databazy
             $server_name = "localhost";
             $username_db = "root";
-            $password_db = "Mimilumka123";
+            $password_db = "xxxxx";
             $db_name = "php_info";
             $con = mysqli_connect($server_name, $username_db, $password_db, $db_name);
             //if we are connected to db
