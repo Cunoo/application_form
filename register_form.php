@@ -8,7 +8,7 @@
     <body>
 
         <?php
-            //$con = mysqli_connect("localhost", "root", "Mimilumka123", "php_info");     
+            //$con = mysqli_connect("localhost", "root", "xxx", "php_info");     
         
         
         
